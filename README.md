@@ -12,3 +12,4 @@
 - [220321 - 1.6 삽입.](https://www.notion.so/morgan-kang/1-6-d84d377a91694972bc876d1bdc6a6b20)
 - [220323 - 백준 2480번.](https://www.notion.so/morgan-kang/2480-9432c690264544ec9a5dfa9f6dc8d5b8)
 - [220323 - 1.7 삭제.](https://www.notion.so/morgan-kang/1-7-5f9b9007f77d4444b5b769083bf5dfb4)
+- [220324 - 1.8 집합.](https://www.notion.so/morgan-kang/1-8-3800b0edaae04fc6b2d6bcd0fdc080b0)
