@@ -16,3 +16,4 @@
 - [220325 - 2.0 Intro.](https://www.notion.so/morgan-kang/2-0-Intro-d89f66803ff0412686670537716e5332)
 - [220325 - 백준 8958번.](https://www.notion.so/morgan-kang/8958-65ffaa35cfb1419588891e5611a5fa26)
 - [220326 - 2.1 정렬된 배열.](https://www.notion.so/morgan-kang/2-1-56c711d8ddb44220b0a72f42f0cf396e)
+- [220329 - 2.2 정렬된 배열의 검색.](https://www.notion.so/morgan-kang/2-2-a8e52760b8f74d07844af6019a79c865)
