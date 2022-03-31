@@ -19,3 +19,4 @@
 - [220329 - 2.2 정렬된 배열의 검색.](https://www.notion.so/morgan-kang/2-2-a8e52760b8f74d07844af6019a79c865)
 - [220330 - 백준 4344번.](https://www.notion.so/morgan-kang/4344-5c053bb4519244969d7e5b17cddefa1c)
 - [220330 - 2.3 이진 검색.](https://www.notion.so/morgan-kang/2-3-dca6d0607e324618922f1f107c43efd4)
+- [220331 - 2.4 이진 검색 대 선형 검색.](https://www.notion.so/morgan-kang/2-4-c658473bde68411f98d6125c5b3867af)
