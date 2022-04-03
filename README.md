@@ -23,3 +23,4 @@
 - [220403 - 프로그래머스 K번째 수.](https://www.notion.so/morgan-kang/K-8e2471e944334b8c8545dff2d5fd71df)
 - [220403 - 2.5 마무리](https://www.notion.so/morgan-kang/2-5-bea21479051c42919f81f3d4d50cbf87)
 - [220403 - 3.0 빅 오 표기법 Intro.](https://www.notion.so/morgan-kang/3-0-Intro-5439fe474c1f441ea93851b9f58b82f0)
+- [220430 - 3.1 빅 오.](https://www.notion.so/morgan-kang/3-1-N-db0573d352a943b0a59c5f5b5e80d913)
