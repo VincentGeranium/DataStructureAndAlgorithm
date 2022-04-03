@@ -21,3 +21,4 @@
 - [220330 - 2.3 이진 검색.](https://www.notion.so/morgan-kang/2-3-dca6d0607e324618922f1f107c43efd4)
 - [220331 - 2.4 이진 검색 대 선형 검색.](https://www.notion.so/morgan-kang/2-4-c658473bde68411f98d6125c5b3867af)
 - [220403 - 프로그래머스 K번째 수.](https://www.notion.so/morgan-kang/K-8e2471e944334b8c8545dff2d5fd71df)
+- [220403 - 2.5 마무리](https://www.notion.so/morgan-kang/2-5-bea21479051c42919f81f3d4d50cbf87)
