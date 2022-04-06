@@ -28,3 +28,4 @@
 - [220406 - 3.3 세 번째 유형의 알고리즘.](https://www.notion.so/morgan-kang/3-3-ec0288f5d83b40d1ba3c77bc8ad380e4)
 - [220406 - 3.4 로가리즘.](https://www.notion.so/morgan-kang/3-4-4642c35926f44750b7efd8a458c6de7f)
 - [220406 - 프로그래머스 직사각형 별찍기.](https://www.notion.so/morgan-kang/04bc654427114dd7be93b79651e6487d)
+- [220407 - 프로그래머스 핸드폰 번호 가리기.](https://www.notion.so/morgan-kang/5cc2fbcb42b1492ca29cdd600486e184)
