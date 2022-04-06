@@ -25,3 +25,4 @@
 - [220403 - 3.0 빅 오 표기법 Intro.](https://www.notion.so/morgan-kang/3-0-Intro-5439fe474c1f441ea93851b9f58b82f0)
 - [220403 - 3.1 빅 오.](https://www.notion.so/morgan-kang/3-1-N-db0573d352a943b0a59c5f5b5e80d913)
 - [220405 - 3.2 빅 오의 본질.](https://www.notion.so/morgan-kang/3-2-521675502f3a478da3d570955803af89)
+- [220406 - 3.3 세 번째 유형의 알고리즘.](https://www.notion.so/morgan-kang/3-3-ec0288f5d83b40d1ba3c77bc8ad380e4)
