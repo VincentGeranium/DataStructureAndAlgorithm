@@ -35,3 +35,4 @@
 - [220411 - 프로그래머스 콜라츠 추측.](https://www.notion.so/morgan-kang/b486add580b34f1aac6904a8ad0b30b5)
 - [220411 - 3.6 실제 예제.](https://www.notion.so/morgan-kang/3-6-4562e7d4d5b44eada9157c7f40763c4f)
 - [220411 - 3.7 마무리.](https://www.notion.so/morgan-kang/3-7-340a72e769a941db82962c83393d7f55)
+- [220412 - 프로그래머스 짝수와 홀수.](https://www.notion.so/morgan-kang/e5d0ac7e396e40d9bd1f8c1716236946)
