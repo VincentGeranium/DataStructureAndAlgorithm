@@ -40,3 +40,5 @@
 - [220415 - 프로그래머스 자연수 뒤집어 배열로 만들기.](https://www.notion.so/morgan-kang/09166e2d8ed7452f98022aa01f6275f4)
 - [220415 - 프로그래머스 자릿수 더하기.](https://www.notion.so/morgan-kang/0505dd67f2384f21a365848c501a792c)
 - [220417 - 프로그래머스 나누어 떨어지는 숫자 배열](https://www.notion.so/morgan-kang/c647986e9af5419fa59eb77370100538)
+- [220419 - 4.0 Intro.](https://www.notion.so/morgan-kang/4-0-Intro-b199c8b679e14bdcb166ec11d4149c5f)
+- [220419 - 4.1 버블 정렬.](https://www.notion.so/morgan-kang/4-1-7d1b501961644a8ea6f30db4b9e27b12)
