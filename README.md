@@ -43,3 +43,4 @@
 - [220419 - 4.0 Intro.](https://www.notion.so/morgan-kang/4-0-Intro-b199c8b679e14bdcb166ec11d4149c5f)
 - [220419 - 4.1 버블 정렬.](https://www.notion.so/morgan-kang/4-1-7d1b501961644a8ea6f30db4b9e27b12)
 - [220419 - 프로그래머스 부족한 금액 계산하기.](https://www.notion.so/morgan-kang/34e45c59bcf74d819ce6b98624d22fc8)
+- [220419 - 프로그래머스 나머지가 1이 되는 수 찾기.](https://www.notion.so/morgan-kang/1-c1813dd901674866bbebb6b9b2e80672)
