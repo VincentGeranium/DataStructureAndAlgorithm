@@ -45,3 +45,4 @@
 - [220419 - 프로그래머스 부족한 금액 계산하기.](https://www.notion.so/morgan-kang/34e45c59bcf74d819ce6b98624d22fc8)
 - [220419 - 프로그래머스 나머지가 1이 되는 수 찾기.](https://www.notion.so/morgan-kang/1-c1813dd901674866bbebb6b9b2e80672)
 - [220422 - 4.2 버블 정렬 실제로 해보기.](https://www.notion.so/morgan-kang/4-2-aaebf8ce5f204904a488645c60411168)
+- [220424 - 1.3 시스템의 구성 - 1.3.1 CPU와 기억장치의 접속](https://www.notion.so/morgan-kang/1-3-1-3-1-CPU-372a27aa3532443f82daecff9a6f9b27)
